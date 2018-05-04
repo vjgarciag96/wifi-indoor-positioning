@@ -1,3 +1,6 @@
 [submodule "wifi-indoor-positioning-client"]
 	path = wifi-indoor-positioning-client
 	url = https://github.com/vgarciaaaw/wifi-indoor-positioning-client.git
+[submodule "wifi-indoor-positioning-backend"]
+	path = wifi-indoor-positioning-backend
+	url = https://github.com/vgarciaaaw/wifi-indoor-positioning-backend.git
